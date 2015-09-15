@@ -1678,7 +1678,7 @@
 			display: block;
 			width: 1px;
 			height: 21px;
-			background: rgba(128, 128, 128, 0.2);
+			background: rgba(128, 128, 128, 0.2); 
 		}
 
 		hr:before {
@@ -2096,7 +2096,7 @@
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("http://i0.wp.com/www.otakutale.com/wp-content/uploads/2015/03/New-Charlotte-Anime-Visual-Characters-and-Synopsis-Revealed.jpg?fit=500%2C1000");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;

@@ -18,10 +18,6 @@
 		vertical-align: baseline;
 		}
 
-		p:first-child{
-			text-shadow: black 0.1em 0.1em 0.2em;
-		}
-
 		h1 {
 		color: white; 
 		text-shadow: black 0.1em 0.1em 0.2em;
@@ -2224,7 +2220,7 @@
 		padding: 1.5em 0 1.5em 0;
 		z-index: 1;
 		overflow: hidden;
-		position:fixed;
+		position:absolute;
 		color:white;
 		text-shadow: black 0.1em 0.1em 0.2em;
 	}
@@ -2271,6 +2267,9 @@
 				-webkit-transition: color 0.35s ease-in-out, border-color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out, border-color 0.35s ease-in-out;
 				transition: color 0.35s ease-in-out, border-color 0.35s ease-in-out;
+				p:first-child{
+				text-shadow: black 0.1em 0.1em 0.2em;
+				}
 			}
 
 				#nav > ul > li.active {

@@ -59,9 +59,11 @@
 										<h3 style="line-height:150%">This is the action genre page, if you don't find the genre that you're looking for, consider the links below.</a></h3>
 									</header>
 									<p>
-										Dolor sed fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-										porttitor phasellus tempus cubilia ultrices tempor sagittis  tellus ante diam nec penatibus dolor cras
-										magna tempus feugiat veroeros.
+										<a href="at1229.github.io/romance.html">Romance Genre </a>
+										<a href="at1229.github.io/drama.html">Drama Genre </a>
+										<a href="att1229.github.io/others.html">Others
+										<a href="at1229.github.io/supernatural:magic.html">Supernatural/Magic Genre
+										<a href=""
 									</p>
 									<footer>
 										<a href="#" class="button">Learn More</a>
@@ -152,10 +154,9 @@
 									</section>
 									<section>
 										<iframe width="650" height="355" src="https://www.youtube.com/embed/pg-4tXvNGyA" frameborder="0" allowfullscreen></iframe>
-									</section>
 									<h3>First Part of Sword Art Online 1 Episode 1 </h3>
 									<p> The whole anime can be found <a href="http://kissanime.com/Anime/Sword-Art-Online">here </a></p> 
-
+									</section>
 								</article>
 							</div>
 						</div>
